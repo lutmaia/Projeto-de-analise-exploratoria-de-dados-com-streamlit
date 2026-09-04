@@ -1,4 +1,4 @@
-# PROJETO
+# Análise Exploratória de Dados com Streamlit
 PROJETO TRIPLETEN
 # Projeto de Análise Exploratória de Dados com Streamlit
 
